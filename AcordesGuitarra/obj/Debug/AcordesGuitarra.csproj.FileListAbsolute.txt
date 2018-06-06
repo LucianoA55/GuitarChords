@@ -1,0 +1,13 @@
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\bin\Debug\AcordesGuitarra.exe.config
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\bin\Debug\AcordesGuitarra.exe
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\bin\Debug\AcordesGuitarra.pdb
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.Properties.Resources.resources
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.csproj.GenerateResource.Cache
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.exe
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.pdb
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.frmInicial.resources
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.frmAgregarCancion.resources
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.frmGeneros.resources
+C:\Users\Luciano\Desktop\Programas Practica\Programa\AcordesGuitarra\AcordesGuitarra\obj\Debug\AcordesGuitarra.frmAutores.resources

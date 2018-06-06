@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace AcordesGuitarra
+{
+    class Validar
+    {
+        public static void SoloNumeros(KeyPressEventArgs pE)
+        {
+            if (Char.IsDigit(pE.KeyChar))
+                pE.Handled = false;
+            else
+                if (Char.IsControl(pE.KeyChar))
+                pE.Handled = false;
+            else
+                pE.Handled = true;
+        }
+        public static void SoloLetras(KeyPressEventArgs pE)
+        {
+            if (Char.IsLetter(pE.KeyChar))
+                pE.Handled = false;
+            else
+                if (Char.IsControl(pE.KeyChar))
+                pE.Handled = false;
+            else
+                if (Char.IsSeparator(pE.KeyChar))
+                pE.Handled = false;
+            else
+                pE.Handled = true;
+        }
+    }
+}
